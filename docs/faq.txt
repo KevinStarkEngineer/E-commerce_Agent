@@ -1,0 +1,8 @@
+Q: 如何購買商品？
+A: 請註冊會員並將商品加入購物車後結帳。
+
+Q: 支援哪些付款方式？
+A: 信用卡、Line Pay、ATM 轉帳。
+
+Q: 如何聯絡客服？
+A: 可透過線上客服或 email 聯繫 support@ecommerce.com。 

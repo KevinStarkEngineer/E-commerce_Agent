@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+llama-index
+sentence-transformers
+faiss-cpu
+openai
+transformers
+python-multipart
+pillow
+websockets
+sqlalchemy
+httpx 
